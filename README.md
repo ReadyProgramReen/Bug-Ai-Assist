@@ -1,7 +1,7 @@
 # Bug-Ai-Assist
 
-This project is an AI-powered bug triager built as a team effort.  
-The goal was to allow developers to paste in a stack trace and get an AI-generated explanation of the error, along with possible solutions
+This project is an **AI-powered bug triager extension** built as a team effort.
+The goal is to let developers paste in a stack trace and instantly get an AI-generated explanation of the error, the likely reason, and suggested solutions, all **without leaving VS Code**.
 
 
 <img width="1845" height="970" alt="Screenshot -bug-triager 2" src="https://github.com/user-attachments/assets/0fabff4d-85b7-4507-b06a-71c119aaac24" />
